@@ -1,0 +1,226 @@
+.flexContainer {
+    display: flex;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.flexContainer img {
+    width: 760px;
+}
+.flexContainer h1 {
+  width: 50%;
+  height: 48px;
+  margin: 0px 233px 0px 50px;
+  font-family: Georgia;
+  font-size: 42px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.64;
+  letter-spacing: normal;
+  text-align: left;
+  color: #34424f;
+}
+.flexContainer p {
+    width: 100%;
+    height: 138px;
+    margin: 0px 132px 61px 50px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.9;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1a1a1a;
+}
+h1 {
+    font-family: Georgia;
+    font-size: 42px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: center;
+    color: #34424f;
+}
+.researchGrid {
+    display: grid;
+    margin-left: 140px;
+    margin-right: 140px;
+    grid-template-columns: 50% auto;
+    align-items: center;
+}
+.researchGrid h2 {
+    font-family: Georgia;
+    font-size: 38px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.researchGrid p{
+    width: 100%;
+    height: 138px;
+    margin: 0px 132px 61px 0px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.9;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1a1a1a;
+}
+.researchGrid img {
+    width: Auto;
+    margin: 10px;
+}
+.ideationGrid {
+    display: grid;
+    margin-left: 140px;
+    margin-right: 140px;
+    grid-template-columns: 50% auto;
+    align-items: center;
+}
+.ideationGrid img {
+    width: Auto;
+    margin: 100px;
+}
+.ideationGrid h2 {
+    font-family: Georgia;
+    font-size: 38px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.ideationGrid p{
+    width: 100%;
+    height: 138px;
+    margin: 0px 132px 61px 0px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.9;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1a1a1a;
+}
+.prototypingGrid {
+    display: grid;
+    margin-left: 140px;
+    margin-right: 140px;
+    grid-template-columns: 50% auto;
+    align-items: center;
+}
+.prototypingGrid h2 {
+    font-family: Georgia;
+    font-size: 38px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.prototypingGrid p{
+    width: 100%;
+    height: 138px;
+    margin: 0px 132px 61px 0px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.9;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1a1a1a;
+}
+.prototypingGrid img {
+    margin: 140px;
+}
+.testingGrid {
+    display: grid;
+    margin-left: 140px;
+    margin-right: 140px;
+    grid-template-columns: 50% auto;
+    align-items: center;
+}
+.testingGrid img {
+    width: Auto;
+    margin: 100px;
+}
+.testingGrid h2 {
+    font-family: Georgia;
+    font-size: 38px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.testingGrid p{
+    width: 100%;
+    height: 138px;
+    margin: 0px 132px 61px 0px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.9;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1a1a1a;
+}
+.futureGrid {
+    display: grid;
+    margin-left: 140px;
+    margin-right: 140px;
+    grid-template-columns: 50% auto;
+    align-items: center;
+}
+.futureGrid h2 {
+    font-family: Georgia;
+    font-size: 38px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.futureGrid p{
+    width: 820px;
+    height: 138px;
+    margin: 0px 132px 61px 0px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.9;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1a1a1a;
+}
+.futureGrid img {
+    width: Auto;
+    margin-left: 100px;
+}
